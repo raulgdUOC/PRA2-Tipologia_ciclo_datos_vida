@@ -10,14 +10,14 @@ URL de la base de datos elegida: https://www.kaggle.com/datasets/rashikrahmanpri
 
 ## Descripción del repositorio:
 
-- `memoria.pdf`: Documento con una descripccion mas detallada del proyecto.
-    - `/src/heart_notebook.ipynb`: Archivo que contiene el codigo que ha hecho falta para realizar la práctica.
+- `memoria.pdf`: Documento con una descripción más detallada del proyecto.
+    - `/src/heart_notebook.ipynb`: Archivo que contiene el código que ha hecho falta para realizar la práctica.
     - `/src/requirements.txt`: Lista de paquetes utilizados (python 3.10).
     - `/data/heart.csv`: Dataset extraído de la URL mencionada anteriormente.
     
 ## Estructura del dataset
 
-La informacion del dataset es la siguiente:
+La información del dataset es la siguiente:
 
 - `age`: Edad del paciente (0: Mujer. 1: Hombre).
 - `cp` : Tipo de dolor en el pecho:
